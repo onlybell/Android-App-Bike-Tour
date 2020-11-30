@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BikeTour</string>
+    <string name="title_home">HOME</string>
+    <string name="title_tour">TOUR</string>
+    <string name="title_saved">SAVED</string>
+    <string name="title_profile">PROFILE</string>
+
+    <string name="about_title">
+        We are Bike Tour\n
+        Ravels Support Company
+    </string>
+
+    <string name="about_detail">
+        Our bike tours are Guided and Fully supported.
+        \n\n
+        The original New Zealand bike tour company since 2002.
+        \n\n
+        In all our destinations our knowledgeable, friendly local guides take pride in showcasing their country for you, while you cycle as little or as much as you want.
+        \n\n
+        Each year, in addition to our scheduled tours, we organise many custom bicycle tours for couples, small groups of friends and larger groups of 20 or more cyclists.
+        \n\n
+        Come and join us for a fabulous cycling vacation.
+    </string>
+
+    <string name="prompt_first_name">First Name</string>
+    <string name="prompt_last_name">Last Name</string>
+    <string name="prompt_email">E-mail</string>
+    <string name="prompt_contact_number">Contact Number</string>
+    <string name="title_page_login">Login</string>
+    <string name="title_page_signup">Sign Up</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_password_confirm">Confirm Password</string>
+    <string name="title_page_profile">PROFILE</string>
+
+</resources>
